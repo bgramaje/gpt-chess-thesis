@@ -1,0 +1,11 @@
+puzzleId,datasetMove,gpt0-move,gpt0-valid,gpt0-done,gpt1-move,gpt1-valid,gpt1-done,gpt2-move,gpt2-valid,gpt2-done,gpt-results
+001gi,a5c3,a5c3,True,True,g4e2,True,False,g4e2,True,False,True False False
+001wb,g6h5,b7c6,True,False,g6c6,True,False,g6g3,True,False,False False False
+002CP,g6c2,g6c2,True,True,g6c2,True,True,g6c2,True,True,True True True
+003IX,e4g3,e4f2,True,False,g4g8,True,False,e4f2,True,False,False False False
+004iZ,g3g7,g3g7,True,True,g3g7,True,True,d4g7,True,False,True True False
+004zI,h6h8,h6h8,True,True,h6h8,True,True,h6h8,True,True,True True True
+008Nz,d1d8,d1d8,True,True,d1d8,True,True,d1d8,True,True,True True True
+008o6,a8f8,f1f8,True,True,f1f8,True,True,a8f8,True,True,True True True
+009L0,c1d1,d5d4,True,False,g8h8,True,False,g8h8,True,False,False False False
+00B2k,h4f2,h4f2,True,True,h4f2,True,True,h4f2,True,True,True True True

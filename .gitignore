@@ -1,2 +1,6 @@
 .env
 data/db_puzzle.csv
+model/
+
+brown.embedding
+brown2.embedding

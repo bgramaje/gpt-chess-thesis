@@ -1,0 +1,1 @@
+[0Dyx2]: Rate limit reached for default-gpt-3.5-turbo-16k in organization org-qtFAXWsjt8kmMgKYlnQNGBBU on tokens per min. Limit: 180000 / min. Current: 175378 / min. Contact us through our help center at help.openai.com if you continue to have issues.
